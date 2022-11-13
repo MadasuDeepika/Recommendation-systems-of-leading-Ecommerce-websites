@@ -1,0 +1,302 @@
+id ,product,category,brand,sale_price,rating,company
+1,Garlic Oil - Vegetarian Capsule 500 mg,Beauty & Hygiene,Sri Sri Ayurveda ,220,4.1,big basket
+2,Water Bottle - Orange,"Kitchen, Garden & Pets",Mastercook,180,2.3,big basket
+3,"Brass Angle Deep - Plain, No.2",Cleaning & Household,Trm,119,3.4,big basket
+4,Cereal Flip Lid Container/Storage Jar - Assorted Colour,Cleaning & Household,Nakoda,149,3.7,big basket
+5,Creme Soft Soap - For Hands & Body,Beauty & Hygiene,Nivea,162,4.4,big basket
+6,Germ - Removal Multipurpose Wipes,Cleaning & Household,Nature Protect,169,3.3,big basket
+7,Multani Mati,Beauty & Hygiene,Satinance,58,3.6,big basket
+8,Hand Sanitizer - 70% Alcohol Base,Beauty & Hygiene,Bionova,250,4,big basket
+9,Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner,Beauty & Hygiene,StBotanica,1098,3.5,big basket
+10,"Scrub Pad - Anti- Bacterial, Regular",Cleaning & Household,Scotch brite,20,4.3,big basket
+11,Wheat Grass Powder - Raw,Gourmet & World Food,NUTRASHIL,261,4,big basket
+12,Butter Cookies Gold Collection,Gourmet & World Food,Sapphire,600,2.2,big basket
+13,"Face Wash - Oil Control, Active",Beauty & Hygiene,Oxy,110,5,big basket
+14,Mold & Mildew Remover with Bleach,Cleaning & Household,Clorox,350,3.8,big basket
+15,Just Spray - Mosquito Repellent Room Spray,Cleaning & Household,Herbal Strategi,200,4.2,big basket
+16,Dove Plastic Soap Case - Assorted Colour,Cleaning & Household,Nakoda,49,4,big basket
+17,Smooth Skin Oil - For Dry Skin,Beauty & Hygiene,Aroma Treasures,324,5,big basket
+18,Salted Pumpkin,Gourmet & World Food,Graminway,180,4.9,big basket
+19,Flax Seeds - Roasted,Gourmet & World Food,True Elements,120,4.3,big basket
+20,Organic Tofu - Soy Paneer,Gourmet & World Food,Murginns,85.14,3.9,big basket
+21,Ceramic Barrel Brush - Colour May Vary,Beauty & Hygiene,Bronson Professional,525,4.2,big basket
+22,Instant Noodles - Chicken Satay Flavor,Gourmet & World Food,Koka,45,4.1,big basket
+23,Chia Seeds,"Foodgrains, Oil & Masala",NaturoBell,120,3.9,big basket
+24,Cleanse Green Tea - Whole Leaf Loose Tea,Gourmet & World Food,Cambridge Tea Party,75,3.9,big basket
+25,Veggie Cutter,"Kitchen, Garden & Pets",IRICH,195,5,big basket
+26,Insulated Hot Fresh Casserole For Roti/Chapati - White,"Kitchen, Garden & Pets",Cello,659,3.3,big basket
+27,Granola - Happy Berries,Snacks & Branded Foods,Fit & Flex,245,3.5,big basket
+28,Flaxseed - Pesticide Free,"Foodgrains, Oil & Masala",Safe Harvest,53.9,4,big basket
+29,Paratha Puff,Snacks & Branded Foods,Switz,90,4.3,big basket
+30,Lip Butter - Rose,Beauty & Hygiene,Organic Harvest,169.15,1.5,big basket
+31,Fruit Power - Masala Sugarcane,Beverages,Real,19,2.9,big basket
+32,Chocobakes Choc Filled Cookies,"Bakery, Cakes & Dairy",Cadbury,102,4.2,big basket
+33,Amber - Deodorant Body Spray,Beauty & Hygiene,Old Spice,211.65,3.4,big basket
+34,Green Tea - Tulsi Loose Leaf,Beverages,Octavius,225,3.7,big basket
+35,Pet Solitaire Container Set - Silver,"Kitchen, Garden & Pets",Steelo,499,3.9,big basket
+36,Dhania - Dal,"Foodgrains, Oil & Masala",bb Royal,98,4.1,big basket
+37,Pudina Chutney Masala,"Foodgrains, Oil & Masala",Catch,46.75,3.9,big basket
+38,Bodylicious Deodorant Spray - Mate (For Men),Beauty & Hygiene,Engage,136.5,4.1,big basket
+39,"Sport Deo Spray - Fresh, for Men",Beauty & Hygiene,Engage,112.75,3.7,big basket
+40,Choco Deck - Mini Delights,Snacks & Branded Foods,Fabelle,160,4.4,big basket
+41,Eau De Toilette - Homme Green,Beauty & Hygiene,Colour Me,427.5,4.3,big basket
+42,Lemon & Tea Tree Oil Soap,Beauty & Hygiene,Liril,360,4.2,big basket
+43,Flavoured Cream Wafer Roll - Strawberry,Gourmet & World Food,Twister,275,4.3,big basket
+44,Storage/Lunch Steel Container with PP Lid - Red,"Kitchen, Garden & Pets",Classic Essentials,109,2.6,big basket
+45,Plain Green Olives,Gourmet & World Food,Figaro,179,5,big basket
+46,Quinoa - Organic,"Foodgrains, Oil & Masala",Organic Tattva,250,3.9,big basket
+47,After Shave Splash - Arctic Ice,Beauty & Hygiene,Gillette,459.62,3.9,big basket
+48,Colour Catcher Sheets,Cleaning & Household,Dylon ,799,4,big basket
+49,Sauce - Sweet & Sour,Gourmet & World Food,Pantai,245,3.7,big basket
+50,Super Hot and Sweet Mango Chutney,Snacks & Branded Foods,Spice Story,100,3,big basket
+51,Pani Puri Mix Paste,"Foodgrains, Oil & Masala",Mother's Recipe,48.95,4.1,big basket
+52,Peach Syrup,Gourmet & World Food,Pekers,850,4.2,big basket
+53,Acne & Oil Control Face Wash,Beauty & Hygiene,Red Hunt,80,4,big basket
+54,Choco Deck - French Dessert Inspired Layered Bar,Snacks & Branded Foods,Fabelle,56,4,big basket
+55,Extra Fine Green Peas,Gourmet & World Food,Daucy,202.5,4.5,big basket
+56,Soothing Cucumber Facial Scrub With Apricot Seeds,Beauty & Hygiene,TJORI,299.4,,big basket
+57,Foochka,Snacks & Branded Foods,Shareat,60,3.9,big basket
+58,Argan-Liquid Gold Hair Spa,Beauty & Hygiene,Aroma Treasures,199.5,4.4,big basket
+59,"Baby Bed Protector - Sublimation Print, Pink",Baby Care,Quick Dry,199,3.7,big basket
+60,Corporate Planner Diary With Premium PU Leather Cover With Card Holder,Cleaning & Household,Prozo Plus,399,,big basket
+61,"Atta Chalan - Stainless Steel, Size- No.8","Kitchen, Garden & Pets",Kvg,149,3.5,big basket
+62,Dog Supplement - Absolute Skin + Coat Tablet,"Kitchen, Garden & Pets",Drools,348.6,4,big basket
+63,"Peanut Butter - Creamy, Super",Gourmet & World Food,Happilo,209.4,4.3,big basket
+64,Sugar Free Petit Beurre - The Taste of France,Snacks & Branded Foods,Bisk Farm,35,4,big basket
+65,Aqua Halo Rejuvenating Conditioner,Beauty & Hygiene,Azafran,168.75,1,big basket
+66,Ayurvedic Anti-Tan Face Pack,Beauty & Hygiene,TJORI,269.4,,big basket
+67,Dog Supplement - Absolute Calcium Tablet,"Kitchen, Garden & Pets",Drools,339.15,3.9,big basket
+68,Battery Power Kids Toothbrush - Barbie,Beauty & Hygiene,Colgate,374.25,4,big basket
+69,Organic Carom Seeds/Ajwain/Om Kalu,"Foodgrains, Oil & Masala",Earthon,72,,big basket
+70,"Padded Harness - 3/4 inch, Grey Colour","Kitchen, Garden & Pets",Glenand,840,,big basket
+71,"Kids Motu Patlu Toothpaste - 2-5 Years, Bubble Fruit Flavour",Beauty & Hygiene,Colgate,43,4,big basket
+72,Pure & Gentle Face Wash,Beauty & Hygiene,Pears,120,4.3,big basket
+73,Sesame Seed Oil,Beauty & Hygiene,INATUR ,210,3.5,big basket
+74,Til Dil Seeds,Gourmet & World Food,Mantra,70,3.6,big basket
+75,"Penta Plastic Pet Water Bottle - Green, Wide Mouth","Kitchen, Garden & Pets",BB Home,75,,big basket
+76,Acne Pimple Kit For Acne & Pimple Removal,Beauty & Hygiene,Natures Essence,500,3,big basket
+77,"Disposable Bamboo Wood Skewer/Picker Sticks- For Barbeque, 12 Inch","Kitchen, Garden & Pets",Bamboooz,135,4.3,big basket
+78,& Moms Bathing Soap - Jasmine,Beauty & Hygiene,Dettol,108,4.6,big basket
+79,Amla Chatpata Dry Fruit,Gourmet & World Food,Fresho Signature,49,,big basket
+80,"Toothbrush Superhero Assorted, Batman/Spiderman",Beauty & Hygiene,Colgate,49,3.9,big basket
+81,Chips - Topica,Snacks & Branded Foods,Sanjay ,65,3.9,big basket
+82,Cup a Soup - Croutons Cream of Asparagus,Gourmet & World Food,Batchelors,269.1,,big basket
+83,Organic Dal - Masoor,"Foodgrains, Oil & Masala",Pro Nature,96,3.9,big basket
+84,Strawberry Ice Cream,Gourmet & World Food,Haagen-Dazs,225,,big basket
+85,Exo Dishwash Bar- Round 700 gm Box + Pril Dishwash Liquid- Active 2X Lime 225 ml,Cleaning & Household,bb Combo,95,,big basket
+86,Jupiter Water/Juice Glass Tumbler,"Kitchen, Garden & Pets",BB Home,479,,big basket
+87,"Cheese - Feta Greek, Block",Gourmet & World Food,Fresho Signature,695.7,,big basket
+88,Avida 3-in-1 Semi Economy Pouch -  FG01248,Cleaning & Household,Shalimar,31.5,4.6,big basket
+89,Bathing Soap - Sandal & Turmeric,Beauty & Hygiene,Godrej No.1,254.15,4.2,big basket
+90,Sweet Corn Kernels - Chipotle,Fruits & Vegetables,Supa Corn,55,,big basket
+91,Ashwagandha Tablets,Beauty & Hygiene,Muniyal Ayurveda,120,,big basket
+92,Hard Anodised Ezee-Pour Saucepan With Lid - L88,"Kitchen, Garden & Pets",Hawkins Futura,864.5,4.6,big basket
+93,Topp Up Milk - Elaichi,"Bakery, Cakes & Dairy",Gowardhan,80.01,5,big basket
+94,Namkeen - Madras Mixture,Snacks & Branded Foods,Townbus,10,4.1,big basket
+95,"Stainless Steel Storage Lunch Container - Flat, Carry Snack Pack","Kitchen, Garden & Pets",Ramson,129,1.5,big basket
+96,Oceans Deodorant for Men - Long Lasting & Fresh Aquatic Fragrance,Beauty & Hygiene,Brut,179.4,4,big basket
+97,Hair Remover Spray - Foam Lemon,Beauty & Hygiene,Dimples,1200,,big basket
+98,Mr. Magic Powder-To-Liquid Germ Protection Handwash Empty Bottle + Refill,Beauty & Hygiene,Godrej Protekt,32.55,4.4,big basket
+99,Frankincense Oil,Beauty & Hygiene,Organic Harvest,258.75,3.7,flipkart
+100,Alisha Solid Women's Cycling Shorts,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Shorts >> Alisha Shorts >> Alisha Solid Women's Cycling Shorts""]",Alisha,999,No rating available,flipkart
+101,FabHomeDecor Fabric Double Sofa Bed,"[""Furniture >> Living Room Furniture >> Sofa Beds & Futons >> FabHomeDecor Fabric Double Sofa Bed (Finish Colo...""]",FabHomeDecor,32157,No rating available,flipkart
+102,AW Bellies,"[""Footwear >> Women's Footwear >> Ballerinas >> AW Bellies""]",AW,999,No rating available,flipkart
+103,Alisha Solid Women's Cycling Shorts,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Shorts >> Alisha Shorts >> Alisha Solid Women's Cycling Shorts""]",Alisha,699,No rating available,flipkart
+104,Sicons All Purpose Arnica Dog Shampoo,"[""Pet Supplies >> Grooming >> Skin & Coat Care >> Shampoo >> Sicons All Purpose Arnica Dog Shampoo (500 ml)""]",Sicons,220,No rating available,flipkart
+105,Eternal Gandhi Super Series Crystal Paper Weights  with Silver Finish,"[""Eternal Gandhi Super Series Crystal Paper Weight...""]",Eternal Gandhi,430,No rating available,flipkart
+106,Alisha Solid Women's Cycling Shorts,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Shorts >> Alisha Shorts >> Alisha Solid Women's Cycling Shorts""]",Alisha,1199,No rating available,flipkart
+107,FabHomeDecor Fabric Double Sofa Bed,"[""Furniture >> Living Room Furniture >> Sofa Beds & Futons >> FabHomeDecor Fabric Double Sofa Bed (Finish Colo...""]",FabHomeDecor,32157,No rating available,flipkart
+108,"dilli bazaaar Bellies, Corporate Casuals, Casuals","[""Footwear >> Women's Footwear >> Ballerinas >> dilli bazaaar Bellies, Corporate Casuals, Casuals""]",dilli bazaaar,699,No rating available,flipkart
+109,Alisha Solid Women's Cycling Shorts,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Shorts >> Alisha Shorts >> Alisha Solid Women's Cycling Shorts""]",Alisha,1199,No rating available,flipkart
+110,Ladela Bellies,"[""Footwear >> Women's Footwear >> Ballerinas >> Ladela Bellies""]",Ladela,1724,5,flipkart
+111,Carrel Printed Women's,"[""Clothing >> Women's Clothing >> Sports & Gym Wear >> Swimsuits >> Carrel Swimsuits >> Carrel Printed Women's""]",Carrel,2299,No rating available,flipkart
+112,Sicons All Purpose Tea Tree Dog Shampoo,"[""Pet Supplies >> Grooming >> Skin & Coat Care >> Shampoo >> Sicons All Purpose Tea Tree Dog Shampoo (200 ml)""]",Sicons,,No rating available,flipkart
+113,Alisha Solid Women's Cycling Shorts,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Shorts >> Alisha Shorts >> Alisha Solid Women's Cycling Shorts""]",Alisha,999,No rating available,flipkart
+114,Freelance Vacuum Bottles 350 ml Bottle,"[""Pens & Stationery >> School Supplies >> Water Bottles >> Freelance Water Bottles >> Freelance Vacuum Bottles 350 ml Bottle (Pack of ...""]",Freelance,699,No rating available,flipkart
+115,Alisha Solid Women's Cycling Shorts,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Shorts >> Alisha Shorts >> Alisha Solid Women's Cycling Shorts""]",Alisha,999,No rating available,flipkart
+116,FabHomeDecor Fabric Double Sofa Bed,"[""Furniture >> Living Room Furniture >> Sofa Beds & Futons >> FabHomeDecor Fabric Double Sofa Bed (Finish Colo...""]",FabHomeDecor,32157,No rating available,flipkart
+117,Style Foot Bellies,"[""Footwear >> Women's Footwear >> Ballerinas >> Style Foot Bellies""]",Style Foot,899,No rating available,flipkart
+118,Carrel Printed Women's,"[""Clothing >> Women's Clothing >> Sports & Gym Wear >> Swimsuits >> Carrel Swimsuits >> Carrel Printed Women's""]",Carrel,2499,No rating available,flipkart
+119,FabHomeDecor Fabric Double Sofa Bed,"[""Furniture >> Living Room Furniture >> Sofa Beds & Futons >> FabHomeDecor Fabric Double Sofa Bed (Finish Colo...""]",FabHomeDecor,32157,No rating available,flipkart
+120,Sicons Conditioning Conditoner Dog Shampoo,"[""Pet Supplies >> Grooming >> Skin & Coat Care >> Shampoo >> Sicons Conditioning Conditoner Dog Shampoo (200 ml)""]",Sicons,110,No rating available,flipkart
+121,Alisha Solid Women's Cycling Shorts,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Shorts >> Alisha Shorts >> Alisha Solid Women's Cycling Shorts""]",Alisha,,No rating available,flipkart
+122,dongli Printed Boy's Round Neck T-Shirt,"[""Clothing >> Kids' Clothing >> Boys Wear >> Polos & T-Shirts >> dongli Polos & T-Shirts >> dongli Printed Boy's Round Neck T-Shirt (Pack of 4)""]",dongli,2400,No rating available,flipkart
+123,SWAGGA Women Clogs,"[""Footwear >> Women's Footwear >> Sports Sandals >> SWAGGA Women Clogs""]",SWAGGA,1500,No rating available,flipkart
+124,Kennel Rubber Dumbell With Bell - Small Rubber Rubber Toy For Dog,"[""Pet Supplies >> Toys >> Comfort Toys""]",Kennel,190,No rating available,flipkart
+125,Glus Wedding Lingerie Set,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Lingerie Sets >> Glus Lingerie Sets""]",,1299,No rating available,flipkart
+126,Veelys Shiny White Quad Roller Skates - Size 4.5 UK,"[""Sports & Fitness >> Other Sports >> Skating >> Skates >> Veelys Skates""]",,3199,No rating available,flipkart
+127,Bulaky vanity case Jewellery Vanity Case,"[""Beauty and Personal Care >> Makeup >> Vanity Boxes >> Bulaky Vanity Boxes""]",,499,3,flipkart
+128,FDT Women's Leggings,"[""Clothing >> Women's Clothing >> Fusion Wear >> Leggings & Jeggings >> Legging Jegging >> FDT Legging Jegging""]",,699,No rating available,flipkart
+129,Madcaps C38GR30 Men's Cargos,"[""Clothing >> Men's Clothing >> Cargos, Shorts & 3/4ths >> Cargos >> Madcaps Cargos""]",,2199,No rating available,flipkart
+130,Bengal Blooms Rose Artificial Plant  with Pot,"[""Bengal Blooms Rose Artificial Plant  with Pot (3...""]",Bengal Blooms,799,No rating available,flipkart
+131,Indcrown Net Embroidered Semi-stitched Lehenga Choli Material,"[""Clothing >> Women's Clothing >> Ethnic Wear >> Fabric >> Lehenga Choli Material >> Indcrown Lehenga Choli Material >> Indcrown Net Embroidered Semi-stitched Lehenga C...""]",Indcrown,999,No rating available,flipkart
+132,Shopmania Music Band A5 Notebook Spiral Bound,"[""Pens & Stationery >> Diaries & Notebooks >> Notebooks >> Designer >> Shopmania Designer >> Shopmania Music Band A5 Notebook Spiral Bound (M...""]",Shopmania,499,No rating available,flipkart
+133,Shopmania Music Band A5 Notebook Spiral Bound,"[""Pens & Stationery >> Diaries & Notebooks >> Notebooks >> Designer >> Shopmania Designer >> Shopmania Music Band A5 Notebook Spiral Bound (M...""]",Shopmania,499,No rating available,flipkart
+134,"Tiara Diaries 2016-2017 Designer LA Kaarta ""TAKING ACTION GETTING RESULT"" (Set of 3) B5 Notebook Hard Bound","[""Pens & Stationery >> Diaries & Notebooks >> Notebooks >> Designer >> Tiara Diaries Designer >> Tiara Diaries 2016-2017 Designer LA Kaarta \""TAKI...""]",Tiara Diaries,1000,No rating available,flipkart
+135,KAJCI Embroidered Women's Waistcoat,"[""Clothing >> Women's Clothing >> Formal Wear >> Waistcoats >> KAJCI Waistcoats >> KAJCI Embroidered Women's Waistcoat""]",KAJCI,1200,No rating available,flipkart
+136,Packman 8 x 10 inches Security Bags Without POD Jacket Courier Bag Security Bag,"[""Pens & Stationery >> Office Supplies >> Packaging Security Bags >> Packman Packaging Security Bags >> Packman 8 x 10 inches Security Bags Without POD ...""]",Packman,350,No rating available,flipkart
+137,Pick Pocket Embroidered Women's Waistcoat,"[""Clothing >> Women's Clothing >> Formal Wear >> Waistcoats >> Pick Pocket Waistcoats >> Pick Pocket Embroidered Women's Waistcoat""]",Pick Pocket,899,No rating available,flipkart
+138,Angelfish Silk Potali Potli,"[""Bags, Wallets & Belts >> Bags >> Pouches and Potlis >> Angelfish Pouches and Potlis >> Angelfish Silk Potali Potli (Multicolor)""]",Angelfish,999,No rating available,flipkart
+139,Oye Boy's Dungaree,"[""Clothing >> Kids' Clothing >> Boys Wear >> Dungarees & Jumpsuits >> Dungarees >> Oye Dungarees >> Oye Boy's Dungaree""]",Oye,899,No rating available,flipkart
+140,Nuride Canvas Shoes,"[""Footwear >> Women's Footwear >> Casual Shoes >> Canvas >> Nuride Canvas Shoes""]",Nuride,1999,No rating available,flipkart
+141,OM SHIVAKRITI Square wall Clock Showpiece  -  38.1 cm,"[""Home Decor & Festive Needs >> Showpiece >> Gramophones >> OM SHIVAKRITI Gramophones >> OM SHIVAKRITI Square wall Clock Showpiece  -  38...""]",OM SHIVAKRITI,1499,No rating available,flipkart
+142,Himmlisch ST381 Magnetic Sun Shade For Maruti Alto,"[""Automotive >> Accessories & Spare parts >> Car Interior & Exterior >> Car Interior >> Car Sun Shades >> Himmlisch ST381 Magnetic Sun Shade For Maruti Al...""]",Himmlisch,6999,No rating available,flipkart
+143,Rapter BNC-179 BNC Wire Connector,"[""Tools & Hardware >> Tools >> Hardware & Electricals >> Hardware >> Wire Joints & Connectors >> Rapter BNC-179 BNC Wire Connector (Silver, Pack ...""]",Rapter,2299,No rating available,flipkart
+144,Vishudh Printed Women's Straight Kurta,"[""Vishudh Printed Women's Straight Kurta""]",Vishudh,999,No rating available,flipkart
+145,Vishudh Printed Women's Straight Kurta,"[""Vishudh Printed Women's Straight Kurta""]",Vishudh,899,No rating available,flipkart
+146,Vishudh Printed Women's Anarkali Kurta,"[""Vishudh Printed Women's Anarkali Kurta""]",Vishudh,2099,No rating available,flipkart
+147,BuildTrack PIR Wireless Motion Sensor - One Switch Control Wireless Sensor Security System,"[""BuildTrack PIR Wireless Motion Sensor - One Swit...""]",BuildTrack,6500,No rating available,flipkart
+148,Skayvon SUMMERSIBLE SINGLE PHASE PUMP CONTROLLER Wired Sensor Security System,"[""Skayvon SUMMERSIBLE SINGLE PHASE PUMP CONTROLLER...""]",Skayvon,9990,No rating available,flipkart
+149,MASARA Solid Women's Straight Kurta,"[""MASARA Solid Women's Straight Kurta""]",MASARA,1399,No rating available,flipkart
+150,Vishudh Printed Women's Straight Kurta,"[""Vishudh Printed Women's Straight Kurta""]",Vishudh,899,No rating available,flipkart
+151,Rapter BNC-047 BNC Wire Connector,"[""Tools & Hardware >> Tools >> Hardware & Electricals >> Hardware >> Wire Joints & Connectors >> Rapter BNC-047 BNC Wire Connector (Silver, Pack ...""]",Rapter,1299,No rating available,flipkart
+152,Skayvon SUBMERSIBBLE THREE PHASE PUMP CONTROLLER Wired Sensor Security System,"[""Skayvon SUBMERSIBBLE THREE PHASE PUMP CONTROLLER...""]",Skayvon,8999,No rating available,flipkart
+153,Vishudh Printed Women's Straight Kurta,"[""Vishudh Printed Women's Straight Kurta""]",Vishudh,899,No rating available,flipkart
+154,Behringer Xenyx 502 Analog Sound Mixer,"[""Behringer Xenyx 502 Analog Sound Mixer""]",Behringer,10000,No rating available,flipkart
+155,Vishudh Printed Women's Straight Kurta,"[""Vishudh Printed Women's Straight Kurta""]",Vishudh,899,No rating available,flipkart
+156,Vishudh Printed Women's Straight Kurta,"[""Vishudh Printed Women's Straight Kurta""]",Vishudh,899,No rating available,flipkart
+157,MASARA Solid Women's Straight Kurta,"[""MASARA Solid Women's Straight Kurta""]",MASARA,1399,No rating available,flipkart
+158,MASARA Solid Women's Straight Kurta,"[""MASARA Solid Women's Straight Kurta""]",MASARA,1399,No rating available,flipkart
+159,Roadster Men's Zipper Solid Cardigan,"[""Clothing >> Men's Clothing >> Winter & Seasonal Wear >> Cardigans >> Roadster Cardigans >> Roadster Men's Zipper Solid Cardigan""]",Roadster,1399,3.6,flipkart
+160,Vishudh Printed Women's Straight Kurta,"[""Vishudh Printed Women's Straight Kurta""]",Vishudh,999,No rating available,flipkart
+161,Noor Embroidered Women's Straight Kurta,"[""Noor Embroidered Women's Straight Kurta""]",Noor,1649,No rating available,flipkart
+162,MASARA Solid Women's Straight Kurta,"[""MASARA Solid Women's Straight Kurta""]",MASARA,1399,No rating available,flipkart
+163,Vishudh Printed Women's Straight Kurta,"[""Vishudh Printed Women's Straight Kurta""]",Vishudh,899,No rating available,flipkart
+164,Libas Printed Women's A-line Kurta,"[""Libas Printed Women's A-line Kurta""]",Libas,899,No rating available,flipkart
+165,Libas Printed Women's Anarkali Kurta,"[""Libas Printed Women's Anarkali Kurta""]",Libas,1849,No rating available,flipkart
+166,MASARA Solid Women's Straight Kurta,"[""MASARA Solid Women's Straight Kurta""]",MASARA,999,No rating available,flipkart
+167,HRS ULTIMATE BOY Chest Pads,"[""Sports & Fitness >> Team Sports >> Cricket >> Cricket Pads >> HRS Cricket Pads >> HRS ULTIMATE BOY Chest Pads (WHITE, RIGHT-HANDED)""]",HRS,440,No rating available,flipkart
+168,Vermello Men Casual Brown Genuine Leather Belt,"[""Bags, Wallets & Belts >> Belts >> Vermello Belts >> Vermello Men Casual Brown Genuine Leather Belt (...""]",Vermello,1495,No rating available,flipkart
+169,HRS CLUB BOY Thigh Pads,"[""Sports & Fitness >> Team Sports >> Cricket >> Cricket Pads >> HRS Cricket Pads >> HRS CLUB BOY Thigh Pads (WHITE, RIGHT-HANDED)""]",HRS,280,No rating available,flipkart
+170,Ligans NY Men Formal Black Genuine Leather Belt,"[""Bags, Wallets & Belts >> Belts >> Ligans NY Belts >> Ligans NY Men Formal Black Genuine Leather Belt ...""]",Ligans NY,795,No rating available,flipkart
+171,Elegance Polyester Multicolor Abstract Eyelet Door Curtain,"[""Home Furnishing >> Curtains & Accessories >> Curtains >> Elegance Polyester Multicolor Abstract Eyelet Do...""]",Elegance,1899,No rating available,flipkart
+172,Liza Women Wedges,"[""Footwear >> Women's Footwear >> Wedges >> Liza Women Wedges""]",Liza,1990,No rating available,flipkart
+173,HRS ULTIMATE BOY Elbow Pads,"[""Sports & Fitness >> Team Sports >> Cricket >> Cricket Pads >> HRS Cricket Pads >> HRS ULTIMATE BOY Elbow Pads (WHITE, RIGHT-HANDED)""]",HRS,250,No rating available,flipkart
+174,Sathiyas Cotton Bath Towel,"[""Baby Care >> Baby Bath & Skin >> Baby Bath Towels >> Sathiyas Baby Bath Towels >> Sathiyas Cotton Bath Towel (3 Bath Towel, Red, Y...""]",Sathiyas,600,No rating available,flipkart
+175,HRS ULTIMATE MEN Chest Pads,"[""Sports & Fitness >> Team Sports >> Cricket >> Cricket Pads >> HRS Cricket Pads >> HRS ULTIMATE MEN Chest Pads (WHITE, RIGHT-HANDED)""]",HRS,440,No rating available,flipkart
+176,Eurospa Cotton Terry Face Towel Set,"[""Baby Care >> Baby Bath & Skin >> Baby Bath Towels >> Eurospa Baby Bath Towels >> Eurospa Cotton Terry Face Towel Set (20 PIECE FA...""]",Eurospa,,No rating available,flipkart
+177,SANTOSH ROYAL FASHION Cotton Printed King sized Double Bedsheet,"[""Home Furnishing >> Bed Linen >> Bedsheets >> SANTOSH ROYAL FASHION Bedsheets >> SANTOSH ROYAL FASHION Cotton Printed King sized ...""]",SANTOSH ROYAL FASHION,2699,No rating available,flipkart
+178,CASEDEAL Microsoft Nokia lumia x2 Back Panel,"[""Mobiles & Accessories >> Mobile Accessories >> Mobile Body Panels >> CASEDEAL Mobile Body Panels >> CASEDEAL Microsoft Nokia lumia x2 Back Panel (Wh...""]",CASEDEAL,1999,No rating available,flipkart
+179,Mario Gotze Women's Printed Casual Orange Shirt,"[""Clothing >> Women's Clothing >> Western Wear >> Shirts, Tops & Tunics >> Shirts >> Mario Gotze Shirts >> Mario Gotze Women's Printed Casual Orange Shirt""]",Mario Gotze,1499,No rating available,flipkart
+180,Jaipur Print Cotton Floral King sized Double Bedsheet,"[""Home Furnishing >> Bed Linen >> Bedsheets >> Jaipur Print Bedsheets >> Jaipur Print Cotton Floral King sized Double Bed...""]",Jaipur Print,2599,No rating available,flipkart
+181,Shilpi NHSCN003 Coin Bank,"[""Pens & Stationery >> College Supplies >> Coin Banks >> Shilpi Coin Banks >> Shilpi NHSCN003 Coin Bank (Brown)""]",Shilpi,900,No rating available,flipkart
+182,Jaipur Print Cotton Floral King sized Double Bedsheet,"[""Home Furnishing >> Bed Linen >> Bedsheets >> Jaipur Print Bedsheets >> Jaipur Print Cotton Floral King sized Double Bed...""]",Jaipur Print,2599,No rating available,flipkart
+183,Babeezworld Dungaree Baby Boy's  Combo,"[""Baby Care >> Infant Wear >> Baby Boys' Clothes >> Combo Sets >> Babeezworld Combo Sets >> Babeezworld Dungaree Baby Boy's  Combo""]",Babeezworld,999,No rating available,flipkart
+184,Redbag Eight Armed Goddess Sherawali Maa Showpiece  -  10.8 cm,"[""Home Decor & Festive Needs >> Table Decor & Handicrafts >> Showpiece >> Religious Idols >> Redbag Religious Idols >> Redbag Eight Armed Goddess Sherawali Maa Showpie...""]",Redbag,1600,No rating available,flipkart
+185,"Proence Weight Gainers, Mass Gainers","[""Food & Nutrition >> Health & Nutrition >> Protein Supplements >> Proence Weight Gainers, Mass Gainers (60 No, Unf...""]",Proence,1025,No rating available,flipkart
+186,Discountgod Men's Checkered Casual Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Casual & Party Wear Shirts >> Discountgod Casual & Party Wear Shirts""]",Slim,750,No rating available,flipkart
+187,Silver Streak Men's Printed Casual Denim Shirt,"[""Clothing >> Men's Clothing >> Shirts >> Casual & Party Wear Shirts >> Silver Streak Casual & Party Wear Shirts""]",Slim,1299,No rating available,flipkart
+188,"Cobra Paris CO6394A1 Analog Watch  - For Men, Boys","[""Watches >> Wrist Watches >> Cobra Paris Wrist Watches""]",,18995,No rating available,flipkart
+189,TEN TEN Women's Black Knee Length Boots Boots,"[""Footwear >> Women's Footwear >> Casual Shoes >> Boots""]",,4995,No rating available,flipkart
+190,"Aries Gold G 729 S-BK Analog Watch  - For Men, Boys","[""Watches >> Wrist Watches >> Aries Gold Wrist Watches""]",,13699,No rating available,flipkart
+191,Carlton Boots,"[""Footwear >> Women's Footwear >> Casual Shoes >> Boots""]",,3495,No rating available,flipkart
+192,Maserati Time R8851116001 Analog Watch  - For Boys,"[""Watches >> Wrist Watches >> Maserati Time Wrist Watches""]",,24400,No rating available,flipkart
+193,"Vizion 8503B-1RED Cold Light Digital Watch  - For Boys, Girls","[""Watches >> Wrist Watches >> Vizion Wrist Watches""]",,1095,No rating available,flipkart
+194,"Camerii WM64 Elegance Analog Watch  - For Men, Boys","[""Watches >> Wrist Watches >> Camerii Wrist Watches""]",,1099,5,flipkart
+195,Reckler Slim Fit Men's Jeans,"[""Clothing >> Men's Clothing >> Jeans >> Reckler Jeans""]",Slim,5398,No rating available,flipkart
+196,Quechua Arpenaz Novadry Boots,"[""Footwear >> Women's Footwear >> Casual Shoes >> Boots""]",,2499,No rating available,flipkart
+197,"Colat COLAT_MW20 Sheen Analog Watch  - For Men, Women, Boys, Girls","[""Watches >> Wrist Watches >> Colat Wrist Watches""]",,3999,5,flipkart
+198,Steppings Trendy Boots,"[""Footwear >> Women's Footwear >> Casual Shoes >> Boots""]",,1799,No rating available,flipkart
+199,Rochees RW38 Analog Watch  - For Boys,"[""Clothing >> Women's Clothing >> Lingerie, Sleep & Swimwear >> Shorts >> Alisha Shorts >> Alisha Solid Women's Cycling Shorts""]",,1415,No rating available,flipkart
+200,"Rorlig RR-028 Expedition Analog Watch  - For Men, Boys","[""Furniture >> Living Room Furniture >> Sofa Beds & Futons >> FabHomeDecor Fabric Double Sofa Bed (Finish Colo...""]",,1099,5,flipkart
+201,WAWO 15 Color Professionl Makeup Eyeshadow Camouflage Facial Concealer Neutral Palette,"[['Beauty', 'Makeup', 'Face', 'Concealers & Neutralizers']]",COKA,5.04,2.5,amazon
+202,Xtreme Brite Brightening Gel 1oz.,"[['Beauty', 'Hair Care', 'Styling Products', 'Creams, Gels & Lotions']]",Xtreme Brite,19.99,3.09,amazon
+203,Prada Candy By Prada Eau De Parfum Spray 1.7 Oz For Women,"[['Beauty', 'Fragrance', ""Women's"", 'Eau de Parfum']]",Prada,65.86,5,amazon
+204,"Versace Bright Crystal Eau de Toilette Spray for Women, 3 Ounce","[['Beauty', 'Fragrance', ""Women's"", 'Eau de Toilette']]",Versace,52.33,4.6,amazon
+205,Stella McCartney Stella,"[['Beauty', 'Fragrance', ""Women's"", 'Eau de Parfum']]", ,NA,4.5,amazon
+206,"Avalon Biotin B-Complex Thickening Conditioner, 14 Ounce","[['Beauty', 'Hair Care', 'Conditioners']]",Avalon Organics,9.49,4.29,amazon
+207,"Better Living Classic Two Chamber Dispenser, White","[['Beauty', 'Bath & Body', 'Bathing Accessories', 'Bath Trays']]",Classic,25.99,4.09,amazon
+208,Better Living The Ulti-Mate Dispenser,"[['Beauty', 'Bath & Body', 'Bathing Accessories', 'Bath Trays']]",Better Living,39.95,4,amazon
+209,"Crabtree &amp; Evelyn 2792 Gardeners Hand Therapy (100ml, 3.4 oz)","[['Beauty', 'Skin Care', 'Hands & Nails', 'Hand Creams & Lotions']]",Crabtree &amp; Evelyn,18.19,4.4,amazon
+210,Crabtree &amp; Evelyn - Gardener's Ultra-Moisturising Hand Therapy Pump - 250g/8.8 OZ,"[['Beauty', 'Skin Care', 'Hands & Nails', 'Hand Creams & Lotions']]", ,NA,4.6,amazon
+211,"Instant Heat Curling Iron, 1-Inch","[['Beauty', 'Hair Care', 'Styling Tools', 'Irons', 'Curling Irons']]",Conair,13.95,4.5,amazon
+212,"Maybelline New York Expert Wear Brow &amp; Eyeliner, 151 Velvet Black , .011 oz (310 mg)","[['Beauty', 'Makeup', 'Eyes', 'Eyeliner']]",Maybelline,1.89,3.33,amazon
+213,"Maybelline New York Cover Stick Concealer, Ivory, Light 2, 0.16 Ounce","[['Beauty', 'Makeup', 'Face', 'Concealers & Neutralizers']]",Maybelline,4.2,3.67,amazon
+214,"Maybelline New York Expert Eyes Moisturizing Eye Makeup Remover, 2.3 Fl. Oz.","[['Beauty', 'Makeup', 'Eyes', 'Mascara']]",Maybelline,1.26,3.67,amazon
+215,"Maybelline New York Ultra-Liner Liquid Liner, Waterproof, Black 135L-01 , .25 fl oz (7.3 ml)","[['Beauty', 'Makeup', 'Eyes', 'Eyeliner']]",Maybelline,7.96,3.8,amazon
+216,"Nullo Internal Deodorant, Coated Caplets, 135 Caplets","[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Oils']]",Monticello,24.74,2,amazon
+217,"Vagisil Anti-Itch Creme, Original Formula - 1 oz","[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Oils']]",Vagisil,3.37,5,amazon
+218,"Pretty Feet &amp; Hands Rough Skin Remover-Exfoliant, 3-Ounce Bottles (Pack of 3)","[['Beauty', 'Skin Care', 'Face', 'Cleansers']]",Pretty Feet &amp; Hands,17.5,4,amazon
+219,DHS Clear Shampoo 8 Fl Oz,"[['Beauty', 'Hair Care', 'Shampoos']]",Person &amp; Covey,9.33,5,amazon
+220,"Neutrogena T-Gel Shampoo, Stubborn Itch Control, 4.4 Ounce","[['Beauty', 'Hair Care', 'Shampoos']]",Neutrogena,5.49,4.75,amazon
+221,"Neutrogena T/Sal Shampoo, Scalp Build-up Control, 4.5 fl oz","[['Beauty', 'Hair Care', 'Shampoos']]",Neutrogena,8.5,4,amazon
+222,DHS Conditioning Rinse With Panthenol 8 fl oz,"[['Beauty', 'Hair Care', 'Conditioners']]",DHS,10.12,5,amazon
+223,Konsyl Pharmaceuticals Psyllium Fiber 15.9 oz,"[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Lotions']]",KONSYL PHARMACEUTICALS,14.29,3,amazon
+224,"Williams Lectric Shave Electric Razor Pre-Shave, Original, 3 fl oz","[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Oils']]",Lectric Shave,3.23,2.5,amazon
+225,Buf-Puf Double-Sided Body Sponge - 1 ea,"[['Beauty', 'Bath & Body', 'Bathing Accessories', 'Loofahs, Sponges & Poufs']]",Buf-Puf,6.82,4.57,amazon
+226,"Buf-Puf Reusable Facial Sponge, Extra Gentle, - 1 ea","[['Beauty', 'Skin Care', 'Face', 'Cleansers']]",Buf-Puf,4.29,4,amazon
+227,Buf-Puf Reusable Facial Sponge (Pack of 6),"[['Beauty', 'Skin Care', 'Face', 'Cleansers']]",Buf-Puf,23.5,4.55,amazon
+228,"Clean &amp; Clear ESSENTIALS Dual Action Moisturizer, 4 Ounce","[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers', 'Fluids & Lotions', 'Fluids']]",Clean &amp; Clear,5.9,4.22,amazon
+229,"Neutrogena OntheSpot Acne Treatment, Vanishing Formula, 0.75 Ounce","[['Beauty', 'Skin Care', 'Face', 'Cleansers']]",Neutrogena,8.05,4.8,amazon
+230,Purpose Dual Treatment Moisture Lotion with SPF 15 4 fl oz (120 ml),"[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Lotions']]",Purpose,12.63,3,amazon
+231,"Stri-Dex Medicated Pads, Maximum Strength, 90-Count Containers, (Pack of 3)","[['Beauty', 'Skin Care', 'Face', 'Cleansers']]",Stri-Dex,15.24,4.83,amazon
+232,"Basis Cleaner Clean Face Wash, 6 Fluid Ounces","[['Beauty', 'Skin Care', 'Face', 'Cleansers', 'Washes']]",Basis,6.1,4.33,amazon
+233,"Cetaphil Gentle Cleansing Bar, Antibacterial - 4.5 oz","[['Beauty', 'Skin Care', 'Face', 'Cleansers', 'Bars']]",Cetaphil,6.84,4,amazon
+234,"Cuticura Medicated Anti-Bacterial Bar Soap, Original Formula - 5.25 oz bar","[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Oils']]",Cuticura,0.78,4.5,amazon
+235,Purpose Gentle Cleansing Bar 6 oz (170 g),"[['Beauty', 'Skin Care', 'Face', 'Cleansers', 'Bars']]",Purpose,4.21,5,amazon
+236,Fruit Of The Earth 100% Aloe Vera 6oz. Gel Tube,"[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Oils']]",Fruit of the Earth,6.03,3.4,amazon
+237,Alpha Hydrox AHA Enhanced Cream 2 oz.,"[['Beauty', 'Skin Care', 'Face', 'Treatments & Masks']]",Alpha Hydrox,11.24,3.5,amazon
+238,Alpha Hydrox Foaming Face Wash -- 6 fl oz,"[['Beauty', 'Skin Care', 'Face', 'Cleansers', 'Washes']]",Alpha Hydrox,7.38,3.94,amazon
+239,Alpha Hydrox Enhanced Lotion 10 percent Glycolic AHA -- 6 fl oz Anti-Wrinkle,"[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers', 'Fluids & Lotions', 'Lotions']]",Alpha Hydrox,9.67,3.63,amazon
+240,Alpha Hydrox Oil Free Treatment 10 Percent AHA 1.7 fl oz.,"[['Beauty', 'Skin Care', 'Face', 'Treatments & Masks']]",Alpha Hydrox,11.67,4.5,amazon
+241,Aquanil Cleanser 16 fl oz.,"[['Beauty', 'Skin Care', 'Face', 'Cleansers']]",Aquanil,13.99,5,amazon
+242,"Cetaphil Moisturizing Cream, Fragrance Free - 16 oz","[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Lotions']]",Cetaphil,17.5,3.33,amazon
+243,"Cetaphil Moisturizing Cream, 3.0 - Ounces Tube (Pack of 3)","[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Lotions']]",Cetaphil,18.99,4.6,amazon
+244,"Cetaphil Moisturizing Lotion, Fragrance Free - 16 fl oz","[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Lotions']]",Cetaphil,8.99,4,amazon
+245,"Cetaphil Gentle Skin Cleanser, 4.0 -Ounce Bottles (Pack of 6)","[['Beauty', 'Skin Care', 'Face', 'Cleansers']]",Cetaphil,27.64,5,amazon
+246,Complex 15 Therapeutic Moisturizing Face Cream - 2.5 Ounce,"[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers']]", ,NA,5,amazon
+247,"DML Daily Facial Moisturizer, SPF 25 - 1.5 Oz","[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers']]",DML,13.25,3.33,amazon
+248,DML Moisturizing Lotion 16 oz.,"[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers', 'Fluids & Lotions', 'Lotions']]",DML,17.26,4,amazon
+249,"Neutrogena Healthy Skin Anti-Wrinkle Cream, SPF 15, 1.4 Ounce","[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers']]",Neutrogena,11.46,4.64,amazon
+250,"Neutrogena Body Oil, Light Sesame Formula, 8.5 Ounce","[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Oils']]",Neutrogena,4.5,4.62,amazon
+251,"Neutrogena Oil-Free Moisture, Sensitive Skin, 4 Ounce","[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers', 'Fluids & Lotions', 'Lotions']]",Neutrogena,10.03,4.08,amazon
+252,"Neutrogena Light Night Cream, 2.25 Ounce","[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers', 'Night Creams']]",Neutrogena,4.45,5,amazon
+253,"Neutrogena Norwegian Formula Hand Cream, Fragrance-Free (2 Ounce)","[['Beauty', 'Skin Care', 'Hands & Nails', 'Hand Creams & Lotions']]",Neutrogena,2.87,4.29,amazon
+254,Olay Complete All Day Moisturizer With Sunscreen Broad Spectrum SPF 15 Normal 4 Fl Oz,"[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers', 'Fluids & Lotions', 'Lotions']]",Olay,8.82,4,amazon
+255,Olay Complete All Day Moisturizer With Sunscreen Broad Spectrum SPF 15 - Sensitive 4 Fl Oz,"[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers']]",Olay,10.7,4.63,amazon
+256,"POND'S Cold Cream Cleanser, 3.5 oz.","[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Oils']]",Pond&#39;s,4.59,4.57,amazon
+257,"POND'S Dry Skin Cream Facial Moisturizer, 3.9-Ounce (Packaging May Vary)","[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers', 'Fluids & Lotions', 'Lotions']]",Pond&#39;s,4.85,4.2,amazon
+258,"Coty Airspun Face Powder, Naturally Neutral, 2.3 oz","[['Beauty', 'Makeup', 'Face', 'Powder']]",Coty,9.99,4.25,amazon
+259,"Max Factor Pan-Stik Ultra Creamy Makeup, Sun Tone 137 .5 oz (14 g)","[['Beauty', 'Makeup', 'Face', 'Foundation']]", ,99.95,5,amazon
+260,"Neutrogena Extra Gentle Cleanser, 6.7 Ounce","[['Beauty', 'Skin Care', 'Face', 'Cleansers']]",Neutrogena,7.35,5,amazon
+261,"Neutrogena Deep Clean Facial Cleanser, Normal to Oily Skin, 6.7 Ounce","[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Oils']]",Neutrogena,5.7,4.5,amazon
+262,"Almay One Coat Nourishing Mascara, Thickening, Black 402, 0.4-Ounce Package","[['Beauty', 'Makeup', 'Eyes', 'Mascara']]",Almay,7.19,4,amazon
+263,"Almay Moisturizing Eye Makeup Remover Pads, 80-Pads","[['Beauty', 'Makeup', 'Makeup Remover', 'Eyes']]",Almay,5.69,3.33,amazon
+264,Hugo By Hugo Boss For Men. Eau De Toilette Spray 1.3 Ounces,"[['Beauty', 'Fragrance', ""Men's"", 'Eau de Toilette']]",HUGO BOSS,24.19,4.62,amazon
+265,"Q-tips Cotton Swabs, 500 Count","[['Beauty', 'Tools & Accessories', 'Cotton & Swabs', 'Cotton Swabs']]",Q-Tips,1.35,4.67,amazon
+266,"L'Oreal Paris Feria Hair Color, 36 Dark Burgundy Brown/Chocolate Cherry","[['Beauty', 'Hair Care', 'Hair Color', 'Chemical Hair Dyes']]",L&#39;Oreal Paris,7.85,3.98,amazon
+267,Aussie Hair Insurance Leave-In Conditioner 8 Fl Oz (Pack of 3),"[['Beauty', 'Hair Care', 'Conditioners']]",Aussie,14,4.4,amazon
+268,"Suave Naturals Shampoo, Daily Clarifying - 22.5oz.","[['Beauty', 'Hair Care', 'Shampoos']]",Suave,6.85,5,amazon
+269,"Suave Shampoo, Daily Clarifying - 12oz.","[['Beauty', 'Hair Care', 'Shampoos']]",Suave,6.29,4,amazon
+270,"Suave Naturals Shampoo, Sun Ripened Strawberry 22.5oz","[['Beauty', 'Hair Care', 'Shampoos']]",Suave,3.71,5,amazon
+271,"Suave Professionals Humectant Moisture Shampoo , 12.6 fl Ounce (373 ml)","[['Beauty', 'Hair Care', 'Shampoos']]",Suave,6.96,4,amazon
+272,"Olay Daily Care Refreshing Toner, 7.2-Fluid Ounce","[['Beauty', 'Skin Care', 'Face', 'Toners & Astringents']]",Olay,4.95,5,amazon
+273,Olay Age Defying Classic Eye Gel 0.5 Oz,"[['Beauty', 'Skin Care', 'Eyes', 'Gels']]",Olay,10.11,2.25,amazon
+274,"Maybelline New York Shine Free Oil Control Pressed Powder, Ivory - 1 ea","[['Beauty', 'Makeup', 'Face', 'Powder']]",Maybelline,5.67,4,amazon
+275,"Maybelline New York Expert Eyes 100% Oil-Free Eye Makeup Remover, 2.3 Fl. Oz.","[['Beauty', 'Makeup', 'Makeup Remover', 'Eyes']]",Maybelline,4.93,4,amazon
+276,"Maybelline New York Shine Free Oil Control Loose Powder, Light, 0.7 Ounce","[['Beauty', 'Makeup', 'Face', 'Powder']]",Maybelline,4.9,4.67,amazon
+277,"Maybelline New York Volum' Express - Waterproof Mascara, Very Black - .34 fl oz","[['Beauty', 'Makeup', 'Eyes', 'Mascara']]",Maybelline,6,5,amazon
+278,"L'Oreal Paris Visible Lift Line-Minimizing &amp; Tone-Enhancing Makeup, Soft Ivory, 1.25 Ounces","[['Beauty', 'Makeup', 'Face', 'Foundation']]",L&#39;Oreal Paris,2,4.65,amazon
+279,"Revlon Super Lustrous Creme Lipstick, Fire and Ice 720, 0.15 Ounce","[['Beauty', 'Makeup', 'Lips', 'Lipstick']]",Revlon,7.5,4.19,amazon
+280,"Revlon Eterna '27' Moisture Cream with Progenitin, 2 Ounce","[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers', 'Fluids & Lotions', 'Lotions']]",Revlon,15.75,3,amazon
+281,"Revlon Lash Curlers, 1 Count","[['Beauty', 'Tools & Accessories', 'Makeup Brushes & Tools', 'Eyelash Tools', 'Curlers']]",Revlon,3.98,3.5,amazon
+282,"Neutrogena Clean Conditioner, Replenishing , 10.1 Fluid Ounce","[['Beauty', 'Hair Care', 'Conditioners']]",Neutrogena,12.99,5,amazon
+283,"Kiss My Face Bar Soap, 8.0 oz, Pure Olive Oil. 1-Bar","[['Beauty', 'Skin Care', 'Face', 'Oils & Serums']]",Kiss My Face,2.3,5,amazon
+284,"L'Oreal Paris Hydra-Renewal Continuous Moisture Cream, 1.7 Ounce","[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers', 'Fluids & Lotions', 'Lotions']]",L&#39;Oreal Paris,5.9,4.75,amazon
+285,"L'Oreal Paris Eye Defense, 0.5 Fluid Ounce","[['Beauty', 'Skin Care', 'Eyes', 'Dark Circle Treatments']]",L&#39;Oreal Paris,5.3,3.5,amazon
+286,Instead 12 Hour Feminine Protection Cup 24 ea,"[['Beauty', 'Skin Care', 'Body', 'Moisturizers', 'Lotions']]",Instead,8.4,3.55,amazon
+287,"Clean &amp; Clear Continuous Control Acne Cleanser,  5 oz  (141g)","[['Beauty', 'Skin Care', 'Face', 'Cleansers']]",Clean &amp; Clear,6.13,5,amazon
+288,Nature's Cure Two-part Acne Treatment System for Women 60 Tablets 1 Oz Cream,"[['Beauty', 'Skin Care', 'Sets & Kits']]",Nature&#39;s Cure,12.88,3.54,amazon
+289,Alpha Hydrox Night Replenishing Cream 2 oz.,"[['Beauty', 'Skin Care', 'Face', 'Treatments & Masks']]",Alpha Hydrox,9.79,3.5,amazon
+290,"Neutrogena Pore Refining Toner, Alpha and Beta Hydroxy Formula, 8.5 Ounce","[['Beauty', 'Skin Care', 'Face', 'Toners & Astringents']]",Neutrogena,7.69,3.88,amazon
+291,"NeutrogenaClear Pore Oil Eliminating Astringent, 8 Ounce","[['Beauty', 'Skin Care', 'Face', 'Toners & Astringents']]",Neutrogena,8.28,4.5,amazon
+292,"Neutrogena Body Clear Body Wash for Clean, Clear Skin, 8.5 Ounce","[['Beauty', 'Bath & Body', 'Scrubs & Body Treatments', 'Body Scrubs']]",Neutrogena,7.99,4,amazon
+293,"Jason C-Effects Creme, 2 Ounces","[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers', 'Fluids & Lotions', 'Lotions']]",Jason Natural Cosmetics,12.5,3,amazon
+294,"Jason Shampoo, Tea Tree, 17.5 Ounce","[['Beauty', 'Hair Care', 'Shampoos']]",Jason Natural,6.83,3,amazon
+295,"Jason Thin-To-Thick Extra Volume Shampoo, 8 Ounce","[['Beauty', 'Hair Care', 'Shampoos']]",Jason Natural,5.56,5,amazon
+296,Thin to Thick Extra Volume Conditioner 8 oz,"[['Beauty', 'Hair Care', 'Conditioners']]",Jason Natural,10.46,5,amazon
+297,Jason Purifying Tea Tree Body Wash 30 fl oz,"[['Beauty', 'Bath & Body', 'Cleansers', 'Body Washes']]",Jason Natural Cosmetics,9.59,4.83,amazon
+298,"Alpha Hydrox Optimum Series, Retinol Night ResQ, Anti-Wrinkle Firming Complex - 1.05 oz","[['Beauty', 'Skin Care', 'Face', 'Creams & Moisturizers', 'Fluids & Lotions', 'Lotions']]",Alpha Hydrox,8.99,4.2,amazon
+299,"Avalon Organics Vitamin C Revitalizing Eye Creme, 1 Ounce Bottle","[['Beauty', 'Skin Care', 'Eyes', 'Creams']]",Avalon Organics,11.61,4,amazon
+300,Tommy Hilfiger Tommy Cologne Spray for Men - 3.4 Fluid Ounces,"[['Beauty', 'Fragrance', ""Men's"", 'Eau de Toilette']]",Tommy Hilfiger,28.54,4.33,amazon
+,,,Mountain Ocean,,,
